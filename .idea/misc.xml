@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/arsal/AndroidStudioProjects/-ud839_Miwok-master/app/src/main/res/layout/activity_colors.xml" value="0.25" />
+        <entry key="..\:/Users/arsal/AndroidStudioProjects/-ud839_Miwok-master/app/src/main/res/layout/activity_family.xml" value="0.1685185185185185" />
+        <entry key="..\:/Users/arsal/AndroidStudioProjects/-ud839_Miwok-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/arsal/AndroidStudioProjects/-ud839_Miwok-master/app/src/main/res/layout/activity_numbers.xml" value="0.25" />
+        <entry key="..\:/Users/arsal/AndroidStudioProjects/-ud839_Miwok-master/app/src/main/res/layout/activity_phrases.xml" value="0.1685185185185185" />
+        <entry key="..\:/Users/arsal/AndroidStudioProjects/-ud839_Miwok-master/app/src/main/res/layout/list_item.xml" value="0.4" />
+        <entry key="..\:/Users/arsal/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/arsal/Downloads/-ud839_Miwok-master/app/src/main/res/layout/activity_colors.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/arsal/Downloads/-ud839_Miwok-master/app/src/main/res/layout/activity_family.xml" value="0.1234375" />
+        <entry key="..\:/Users/arsal/Downloads/-ud839_Miwok-master/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/arsal/Downloads/-ud839_Miwok-master/app/src/main/res/layout/activity_numbers.xml" value="0.264" />
+        <entry key="..\:/Users/arsal/Downloads/-ud839_Miwok-master/app/src/main/res/layout/activity_phrases.xml" value="0.1234375" />
+        <entry key="..\:/Users/arsal/Downloads/-ud839_Miwok-master/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Users/jiten/AndroidStudioProjects/ud839_Miwoklessonone/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/jiten/AndroidStudioProjects/ud839_Miwoklessonone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/jiten/AndroidStudioProjects/ud839_Miwoklessonone/app/src/main/res/layout/activity_colors.xml" value="0.264" />
+        <entry key="..\:/Users/jiten/AndroidStudioProjects/ud839_Miwoklessonone/app/src/main/res/layout/activity_colors2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jiten/AndroidStudioProjects/ud839_Miwoklessonone/app/src/main/res/layout/activity_family.xml" value="0.25" />
+        <entry key="..\:/Users/jiten/AndroidStudioProjects/ud839_Miwoklessonone/app/src/main/res/layout/activity_family2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jiten/AndroidStudioProjects/ud839_Miwoklessonone/app/src/main/res/layout/activity_main.xml" value="0.2390625" />
+        <entry key="..\:/Users/jiten/AndroidStudioProjects/ud839_Miwoklessonone/app/src/main/res/layout/activity_numbers.xml" value="0.25" />
+        <entry key="..\:/Users/jiten/AndroidStudioProjects/ud839_Miwoklessonone/app/src/main/res/layout/activity_phrases.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jiten/AndroidStudioProjects/ud839_Miwoklessonone/app/src/main/res/layout/activity_prases.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
