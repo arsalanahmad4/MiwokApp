@@ -67,7 +67,7 @@ public class Word {
     /**
      * ALt+INSERT shortcut key to select getter setter, toString() ,counstructor etc.
      * Returns the string representation of {@link Word} object
-     * @return
+     * @return String
      */
     @Override
     public String toString() {
