@@ -4,6 +4,7 @@
     android:id="@+id/phrases_list"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:drawSelectorOnTop="true"
     tools:context="com.example.ud839_miwok_lesson_one.PhrasesActivity">
 
 </ListView>
